@@ -1,0 +1,740 @@
+[
+    {
+        "soru": "Batıda ‘Averreos’ olarak tanınan El Külliyat Fi’t Tıbb’ ‘Mukaddemat’ eserlerinin sahibi İslam felsefesinde Aristocu akım olan meşşailiğin temsilcilerinden olan bilgin aşağıdakilerden hangisidir?",
+        "a": "A) İbn-i Sina",
+        "b": "B ) Farabi",
+        "c": "C ) Gazali",
+        "d": "D ) İbn-i Rüşd",
+        "e": "E ) El-Biruni",
+        "doğru" : "d"
+    },
+    {
+        "soru": "’Çanlar Kimin İçin Çalıyor’ ‘Yaşlı Adam ve Deniz’ ve ‘Silahlara Veda’ eserlerinin sahibi yazar aşağıdakilerden hangisidir?",
+        "a": "A) Lev Tolstoy",
+        "b": "B ) Anton Çehov",
+        "c": "C ) Ernest Hemingway",
+        "d": "D ) Maksim Gorki",
+        "e": "E ) Nikolay Gogol",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Toplulukların eskiden kullandıkları yazıları inceleyen bilim dalı aşağıdakilerden hangisidir?",
+        "a": "A) Paleografya",
+        "b": "B ) Antropoloji",
+        "c": "C ) Filoloji",
+        "d": "D ) Paleontoloji",
+        "e": "E ) Onomastik",
+        "doğru" : "a"
+    },
+    {
+        "soru": "Haziran 2021 tarihinde İran’da yapılan seçimlerde Cumhurbaşkanı seçilen isim aşağıdakilerden hangisidir?",
+        "a": "A) Mahmud Ahmedinejad",
+        "b": "B ) Hasan Ruhani",
+        "c": "C ) Ali Laricani",
+        "d": "D ) Sadık Laricani",
+        "e": "E ) İbrahim Reisi",
+        "doğru" : "e"
+    },
+    {
+        "soru": "Türk toplumunun demir madeninin bulunduğu dağı eriterek yaşadıkları yerden çıkışının anlatıldığı destan aşağıdakilerden hangisidir?",
+        "a": "A) Oğuz Kağan Destanı",
+        "b": "B ) Türeyiş Destanı",
+        "c": "C ) Ergenekon Destanı",
+        "d": "D ) Alp Er Tunga Destanı",
+        "e": "E ) Göç Destanı",
+        "doğru" : "c"
+    },
+    {
+        "soru": "2023 Dünya Spor Başkenti ilan edilen şehir aşağıdakilerden hangisidir?",
+        "a": "A) Bursa",
+        "b": "B ) Antalya",
+        "c": "C ) İzmir",
+        "d": "D ) Konya",
+        "e": "E ) Eskişehir",
+        "doğru" : "d"
+    },
+    {
+        "soru": "2025 yılında düzenlenecek EXPO fuarına ev sahipliği yapacak ülke aşağıdakilerden hangisidir?",
+        "a": "A) Fransa",
+        "b": "B ) Japonya",
+        "c": "C ) Türkiye",
+        "d": "D ) Çin",
+        "e": "E ) İtalya",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Covid19 hastalığına karşı geliştirilen Türk aşısının ismi aşağıdakilerden hangisidir?",
+        "a": "A) Sputnik",
+        "b": "B ) Sinovac",
+        "c": "C ) Türkovac",
+        "d": "D ) CoronaVac",
+        "e": "E ) Tuontech",
+        "doğru" : "c"
+    },
+    {
+        "soru": "2022 Ampute Futbol Dünya Kupasına ev sahipliği  yapacak ülke aşağıdakilerden hangisidir?",
+        "a": "A) Almanya",
+        "b": "B ) Azerbaycan",
+        "c": "C ) Türkiye",
+        "d": "D ) Hollonda",
+        "e": "E ) Danimarka",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Türk sinemasında \"Tarkan\" karakteriyle bilinen ve Temmuz 2021'de hayatını kaybeden Türk sinama oyuncusu aşağıdakilerden hangisidir?",
+        "a": "A) Cüneyt Arkın",
+        "b": "B ) Tarık Akan",
+        "c": "C ) Barış Zeki Üregül",
+        "d": "D ) Kartal Tibet",
+        "e": "E ) Ediz Hun",
+        "doğru" : "d"
+    },
+    {
+        "soru": "Dünyanın 7 harikasından biri olan \"Chichen Itza Piramidi\" hangi ülkededir?",
+        "a": "A) Meksika",
+        "b": "B ) Brezilya",
+        "c": "C ) Mısır",
+        "d": "D ) Hindistan",
+        "e": "E ) İtalya",
+        "doğru" : "a"
+    },
+    {
+        "soru": "Üç ülkeyle sınırı bulunan tek ilimiz aşağıdakilerden hangisidir?",
+        "a": "A) Iğdır",
+        "b": "B ) Bilecik",
+        "c": "C ) Ardahan",
+        "d": "D ) Edirne",
+        "e": "E ) Hakkari",
+        "doğru" : "a"
+    },
+    {
+        "soru": "İslam öncesinde çav adı verilen kağıt patayı kullanan il devlet aşağıdakilerden hangisidir?",
+        "a": "A) Asya Hun",
+        "b": "B ) Avrupa Hun",
+        "c": "C ) Uygurlar",
+        "d": "D ) Göktürler",
+        "e": "E ) Avarlar",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Anadolu Selçuklu Devleti'nin Moğol hakimiyetine girmesine neden olan savaş aşağıdakilerden hangisidir?",
+        "a": "A) Pasinler Savaşı",
+        "b": "B ) Kösedağ Savaşı",
+        "c": "C ) Miryokefalon Savaşı",
+        "d": "D ) Yassıçemen Savaşı",
+        "e": "E ) Dandanakan Savaş",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Mengücekliler Dönemi'nde Mimar Ahlatlı Hürrem Şah tarafından inşa edilen, 1985 yılında UNESCO Dünya Kültür Mirası Listesi'ne alınıp uzmanlarca \"Anadolu'nun El Hamrası\" olarak nitelendirilen Türk - İslam eseri aşağıdaldlerden hangisidir?",
+        "a": "A) Gevher Nesibe Darüşşifası",
+        "b": "B ) Anber Bin Abdullah Daruşşifası",
+        "c": "C ) Divriği Ulu Cami ve Darüşşifası",
+        "d": "D ) Konya ince Minareli Medrese",
+        "e": "E ) Sivas Gök Medrese",
+        "doğru" : "c"
+    },
+    {
+        "soru": "I. Murat'ın savaş alanını gezerken bir Sırp tarafından şehit edildiği savaş aşağıdakilerden hangisidir?",
+        "a": "A) I. Kosova Savaşı",
+        "b": "B ) ll. Kosova Savaşı",
+        "c": "C ) ll. Çirmen Savaşı",
+        "d": "D ) Sırpsındığı Savaşı",
+        "e": "E ) Niğbolu Savaşı",
+        "doğru" : "a"
+    },
+    {
+        "soru": "Osmanlı Devleti'nde aşağıdaki padişahlardan hangisi döneminde ilk defa seçim yapılarak Meclis-i Mebusan açılmıştır?",
+        "a": "A) II. Mahmut",
+        "b": "B ) Abdülaziz",
+        "c": "C ) Abdülmecit",
+        "d": "D ) V. Mehmet Reşat",
+        "e": "E ) II. Abdülhamit",
+        "doğru" : "e"
+    },
+    {
+        "soru": "Mustafa Kemal'in, \"Ben size taarruz emretmiyorum, ölmeyi emrediyorum. Biz ölünceye kadar geçecek zaman içinde yerimizi başka kuvvetler ve başka kumandanlar alabilir.\" diyerek askeri liderliğini gösterdiği cephe aşağıdakilerden hangisidir?",
+        "a": "A) Kafkas Cephesi",
+        "b": "B ) Kanal Cephesi",
+        "c": "C ) Suriye - Filistin Cephesi",
+        "d": "D ) Çanakkale Cephesi",
+        "e": "E ) Irak Cephesi",
+        "doğru" : "d"
+    },
+    {
+        "soru": "Milli Mücadele Hazırlık Dönemi'nde İstanbul Hükümeti adına Amasya Görüşmeleri'ni yürüten Osmanlı; devlet adamı aşağıdakilerden hangisidir?",
+        "a": "A) Ali Rıza Paşa",
+        "b": "B ) Ahmet izzet Paşa",
+        "c": "C ) Tevfik Paşa",
+        "d": "D ) Salih Paşa",
+        "e": "E ) Damat Ferit Paşa",
+        "doğru" : "d"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi Mustafa Kemal'in eğitim gördüğü okullardan biri değildir?",
+        "a": "A) Selanik Askeri Rüştiyesi",
+        "b": "B ) Manastır Askeri idadisi",
+        "c": "C ) Harp Okulu",
+        "d": "D ) Harp Akademisi",
+        "e": "E ) Darülfünun",
+        "doğru" : "e"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi her zaman bir ezgiyle söylenen, Anonim Halk edebiyatına ait bir üründür?",
+        "a": "A) Şarkı",
+        "b": "B ) Semai",
+        "c": "C ) Türkü",
+        "d": "D ) Kaside",
+        "e": "E ) Koşuk",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Pişekar'ın cinasçılık, Kavuklu'nun ise tekerlemecilik yaparak açık bir meydanda doğaçlama olarak ortaya koydukları halk tiyatrosuna ne ad verilir?",
+        "a": "A) Komedya",
+        "b": "B ) Meddah",
+        "c": "C ) Dram",
+        "d": "D ) Ortaoyunu",
+        "e": "E ) Karagöz",
+        "doğru" : "d"
+    },
+    {
+        "soru": "Aşağıdakilerin hangisinde koçaklamalarıyla tanınmış Aşık edebiyatı sanatçıları bir arada verilmiştir?",
+        "a": "A) Karacaoğlan - Aşık Veyse",
+        "b": "B ) Aşık Ömer - Erzurumlu Emrah",
+        "c": "C ) Seyrani - Kaygusuz Abdal",
+        "d": "D ) Pir Sultan Abdal - Gevheri",
+        "e": "E ) Köroğlu - Dadaloğlu",
+        "doğru" : "e"
+    },
+    {
+        "soru": "Elli yılı aşan gezilerini izlenimleriyle birlikte \"Seyahatname\" adlı yapıtında toplayan sanatçı aşağıdakilerden hangisidir?",
+        "a": "A) Katip Çelebi",
+        "b": "B ) Evliya Çelebi",
+        "c": "C ) Mercimek Ahmet",
+        "d": "D ) Yirmisekiz Mehmet Çelebi",
+        "e": "E ) Mevlana Celaleddin-i Rumi",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Divan edebiyatımızın en güzel mersiye örneklerinden olan \"Kanuni Mersiyesi\"nin şairi aşağıdakilerden hangisidir?",
+        "a": "A) Fuzuli",
+        "b": "B ) Baki",
+        "c": "C ) Nabi",
+        "d": "D ) Şeyh Galip",
+        "e": "E ) Nefi",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Şarkı türündeki yapıtlarıyla ün kazanmış, Halk şairleri tarzında hece ölçüsüyle bir türkü yazarak hece ölçüsünü denemiş, şiirlerinde hep din dışı konuları işlemiş Divan şairi aşağıdakilerden hangisidir?",
+        "a": "A) Fuzuli",
+        "b": "B ) Nabi",
+        "c": "C ) Nesimi",
+        "d": "D ) Baki",
+        "e": "E ) Nedim",
+        "doğru" : "e"
+    },
+    {
+        "soru": "Divan edebiyatında, biyografi türünün karşılığı sayılabilecek yapıtlara ne ad verilir?",
+        "a": "A) Sefaretname",
+        "b": "B ) Siyer",
+        "c": "C ) Münşeat",
+        "d": "D ) Seyahatname",
+        "e": "E ) Tezkire",
+        "doğru" : "e"
+    },
+    {
+        "soru": "KKTC'yi temsil eden, beyaz fon üzerine üstte ve altta olmak üzere iki, kırmızı boydan boya şerit ile ortada kırmızı renkli ay yıldızdan oluşan KKTC Bayrağı'nı tasarlayan, eski başbakan ve siyasetçi aşağıdakilerden hangisidir?",
+        "a": "A) Turgut ÖZAL",
+        "b": "B ) Bülent ECEVİT",
+        "c": "C ) Süleyman DEMİREL",
+        "d": "D ) Alparslan TÜRKEŞ",
+        "e": "E ) Necmettin ERBAKAN",
+        "doğru" : "e"
+    },
+    {
+        "soru": "Temmuz 2018 tarihinde kendi alanında dünyada \"Yılın En Seçkin Bilim İnsanı\" seçilen, \"Ne öğrendiysem Türkiye'de öğrendim\" diyen bilim insanı aşağıdakilerden hangisidir?",
+        "a": "A) Prof. Dr. Mutlu ÖZCAN",
+        "b": "B ) Prof. Dr. Aziz SANCAR",
+        "c": "C ) Prof. Dr. İlber ORTAYLI",
+        "d": "D ) Prof. Dr. Ömer ÖZKAN",
+        "e": "E ) Prof. Dr. Tayfun AYBEK",
+        "doğru" : "a"
+    },
+    {
+        "soru": "Batı dünyasının ilk yüksek öğrenim kurumu kabul edilen \"Akademi\"yi kurarak, giriş kapısına \"Geometri bilmeyen buraya giremez\" yazısı yazan, ilk Çağ'ın en önemli filozoflarından biri olarak kabul edilen bilim insanı aşağıdakilerden hangisidir?",
+        "a": "A) Pisagor",
+        "b": "B ) Aristo",
+        "c": "C ) Sokrates",
+        "d": "D ) Newton",
+        "e": "E ) Platon",
+        "doğru" : "e"
+    },
+    {
+        "soru": "1983'te kurulan Kuzey Kıbrıs Türk Cumhuriyeti'ni tanıyan ilk devlet aşağıdakilerden hangisidir?",
+        "a": "A) Azerbaycan",
+        "b": "B ) Türkmenistan",
+        "c": "C ) Türkiye",
+        "d": "D ) Lübnan",
+        "e": "E ) İran",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Lale Devri'nde kurulan ilk özel Türk matbaasında aşağıdaki bilim dallarından hangileri ile ilgili eserler basılmamıştır?",
+        "a": "A) Cebir",
+        "b": "B ) Edebiyat",
+        "c": "C ) Kimya",
+        "d": "D ) Tefsir",
+        "e": "E ) Tarih",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Kurtuluş Savaşı'ırıda göstermiş olduğu mücadele azmi nedeniyle aşağıdaki şehirlerden hangisine Atatürk Dönemi'nde İstiklal Madalyası verilmiştir?",
+        "a": "A) Maraş",
+        "b": "B ) Urfa",
+        "c": "C ) Antep",
+        "d": "D ) Adana",
+        "e": "E ) İzmir",
+        "doğru" : "d"
+    },
+    {
+        "soru": "Montrö Boğazlar Sözleşmesi'ni protesto etmesine rağmen iki yıl sonra imzalayan devlet aşağıdakilerden hangisidir?",
+        "a": "A) Rusya",
+        "b": "B ) İngiltere",
+        "c": "C ) Almanya",
+        "d": "D ) Fransa",
+        "e": "E ) İtalya",
+        "doğru" : "a"
+    },
+    {
+        "soru": "İlk Türk devlet ve ordu teşkilatının temellerinin aşağıdaki Türk hükümdarlarından hangisinin döneminde atıldığı söylenebilir?",
+        "a": "A) Bilge Kağan",
+        "b": "B ) Kutluk Kağan",
+        "c": "C ) Mete Han",
+        "d": "D ) Teoman",
+        "e": "E ) Mukan Kağan",
+        "doğru" : "e"
+    },
+    {
+        "soru": "Konya'daki İnce Minareli Medrese aşağıdaki Türk-İslam devletlerinden hangisi döneminde inşa edilmiştir?",
+        "a": "A) Osmanlı Devleti",
+        "b": "B ) Anadolu Selçuklu Devleti",
+        "c": "C ) Artuklu Devleti",
+        "d": "D ) Akkoyunlu Devleti",
+        "e": "E ) Büyük Selçuklu Devleti",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Eserlerinde astronomi aletlerinin kullanımı, astronomi cetvellerini ve mühendislikle ilgili çalışmalarım anlatan ve Osmanlının ilk rasathanesini kuran bilim adamı aşağıdakilerden hangisidir?",
+        "a": "A) Takiyüddin Mehmet",
+        "b": "B ) Hezarfen Ahmet Çelebi",
+        "c": "C ) Lagari Hasan Çelebi",
+        "d": "D ) Kadızadei Rumi",
+        "e": "E ) Ali Kuşçu",
+        "doğru" : "a"
+    },
+    {
+        "soru": "Kurtuluş Savaşı'nın önde gelen komutanlarından biri olan Fevzi Çakmak, aşağıdaki savaşların hangisinden sonra TBMM tarafından \"mareşal\" rütbesine terfi ettirilmiştir?",
+        "a": "A) I. İnönü Muharebesi",
+        "b": "B ) II. lnönü Muharebesi",
+        "c": "C ) Kütahya - Eskişehir Muharebeleri",
+        "d": "D ) Sakarya Meydan Muharebesi",
+        "e": "E ) Başkomutanlık Meydan Muharebesi",
+        "doğru" : "a"
+    },
+    {
+        "soru": "Mustafa Kemal'in son Osmanlı Mebusan Meclisi ve 1.TBMM'ye milletvekili seçildiği iller aşağıdakilerden hangisinde birlikte verilmiştir?",
+        "a": "A) Erzurum - Ankara",
+        "b": "B ) Erzurum - Sivas",
+        "c": "C ) İstanbul - Erzurum",
+        "d": "D ) Ankara - İstanbul",
+        "e": "E ) Sivas - Ankara",
+        "doğru" : "a"
+    },
+    {
+        "soru": "Atatürk Dönemi'nde Türkiye dış politikada \"Yurtta sulh cihanda sulh.\" politikasını kendine ilke edinmiş, bu doğrultuda çeşitli paktlar oluşturmuş ve antlaşmalar yapmıştır.",
+        "a": "A) Bulgaristan",
+        "b": "B ) Yunanistan",
+        "c": "C ) SSCB",
+        "d": "D ) İngiltere",
+        "e": "E ) Fransa",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Aşağıda verilen ilim adamı ve eşleştirmelerinden hangisi doğru değildir?",
+        "a": "A) Firdevsi - Şehname",
+        "b": "B ) Biruni - Asar'ül Bakiye",
+        "c": "C ) Farabi - lhyau Ulumi'd-din",
+        "d": "D ) Kaşgarlı Mahmut - Divanü Lügati't-Türk",
+        "e": "E ) Hoca Ahmet Yesevi - Divan-ı Hikmet",
+        "doğru" : "c"
+    },
+    {
+        "soru": "UNESCO Türkiye Milli Komisyonu tarafından Dünya Geçici Miras Listesi'ne alınan ve \"kırmızı periler diyarı\" olarak anılan \"Narman Peribacaları\" hangi ilimizde yer alır?",
+        "a": "A) Uşak",
+        "b": "B ) Erzurum",
+        "c": "C ) Nevşehir",
+        "d": "D ) Konya",
+        "e": "E ) Şanlıurfa",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Yazar Homeros'a ait olan Batı edebiyatının ilk büyük eserleri kabul edilen İlyada ve Odysseia destanlarının en eski kalıntıları hangi ülkede yapılan kazılar sonucunda bulunmuştur?",
+        "a": "A) Yunanistan",
+        "b": "B ) Roma",
+        "c": "C ) Türkiye",
+        "d": "D ) Bulgaristan",
+        "e": "E ) Rusya",
+        "doğru" : "a"
+    },
+    {
+        "soru": "İçişleri Bakanlığı tarafından, Doğu Anadolu ve Güneydoğu Anadolu Bölgelerimizdeki 21 ilden 50.000 öğrenciye ülkemizin farklı şehirleri ziyaret ettirilerek iller arası kardeşlik köprüsü kurulması, ortak kültürel değerlerin paylaşılmasının hedeflendiği projenin ismi aşağıdakilerden hangisidir?",
+        "a": "A) Türkiye'yi Geziyoruz",
+        "b": "B ) Yakından Uzağa",
+        "c": "C ) Biz Anadoluyuz",
+        "d": "D ) Kültürleşme",
+        "e": "E ) Gençlerle Elele",
+        "doğru" : "c"
+    },
+    {
+        "soru": "“III. Selim’in Bayram Töreni” adlı tabloyu ve 1803’te de oturur pozisyonda III. Selim’in portrelerini yapan, hükümdarın isteği üzerine Osman Gazi’den kendi dönemine kadarki padişahların portrelerini çizen, bugün halen orjinallerinin Topkapı Sarayı Müzesi’nde sergilendiği portrelerin ressamı aşağıdakilerden hangisidir?",
+        "a": "A) Levni",
+        "b": "B ) İbrahim Çallı",
+        "c": "C ) Osman Hamdi Bey",
+        "d": "D ) Şeker Ahmet Paşa",
+        "e": "E ) Konstantin Kapıdağlı",
+        "doğru" : "e"
+    },
+    {
+        "soru": "Cumhurbaşkanı Recep Tayyip Erdoğan, 'Sadık bir dava arkadaşım...' diyerek Devlet Şeref Madalyası takdim ettiği, eski Ulaştırma Bakanı ve Başbakan aşağıda verilen isimlerden hangisidir?",
+        "a": "A) Süleyman Soylu",
+        "b": "B ) Mehmet Şimşek",
+        "c": "C ) Binali Yıldırım",
+        "d": "D ) Bekir Bozdağ",
+        "e": "E ) Ahmet Davutoğlu",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Uluğ Bey tarafından Timur Devleti Dönemi'nde yazılan ve yıldızların hareketi konusundada önemli bilgiler veren eser aşağıdakilerden hangisidir?",
+        "a": "A) El Medinetül-Fazıla",
+        "b": "B ) Zic",
+        "c": "C ) Asarül-Bakiye",
+        "d": "D ) Keşşaf",
+        "e": "E ) Kitabül-Cebr ve'l-Mukabele",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Doksanüç Harbi sırasında Doğu Cephesi'nde görev yaparak oradaki olumsuzlukarı \"Başımıza Gelenler\" adlı hatıratında dile getiren kişi aşağıdakilerden hangisidir?",
+        "a": "A) Mehmet Arif Bey",
+        "b": "B ) Kazım Karabekir Paşa",
+        "c": "C ) Enver Paşa",
+        "d": "D ) Gazi Osman Paşa",
+        "e": "E ) Kara Vasıf Bey",
+        "doğru" : "a"
+    },
+    {
+        "soru": "Mudanya Ateşkes Antlaşması'nın imzalanmasından sonra Trakya Yüksek Komiseri sıfatıyla Doğu Trakya'yı teslim almakla görevlendirilen devlet adamı aşağıdakilerden hangisidir?",
+        "a": "A) İsmet İnönü",
+        "b": "B ) Ali Fuat Cebesoy",
+        "c": "C ) Kazım Karabekir",
+        "d": "D ) Refet Bele",
+        "e": "E ) Fevzi Çakmak",
+        "doğru" : "d"
+    },
+    {
+        "soru": "\"Selvi Boylum Al Yazmalım\", \"Cemile\", \"Gün Olur Asra Bedel\" eserleri ile tanınan dünyaca ünlü Kırgız yazar aşağıdakilerden hangisidir?",
+        "a": "A) Zeki Velidi Togan",
+        "b": "B ) Cengiz Aytmatov",
+        "c": "C ) Yusuf Akçura",
+        "d": "D ) İsmail Gaspırah",
+        "e": "E ) Mehmet Emin Resulzade",
+        "doğru" : "b"
+    },
+    {
+        "soru": "SSCB ve Çin'in Asya'da yayılmasını istemeyen ABD'nin öncülüğünde kurulan SEATO'da aşağıdaki devletlerden hangisi yer almaz?",
+        "a": "A) Tayland",
+        "b": "B ) Pakistan",
+        "c": "C ) Filipinler",
+        "d": "D ) İngiltere",
+        "e": "E ) Afganistan",
+        "doğru" : "e"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi İslamiyet öncesi Türklerde devlet yönetimi veya yöneticileriyle ilgili kavramlardan biri değildir?",
+        "a": "A) İnal",
+        "b": "B ) Tutuk",
+        "c": "C ) Kül erkin",
+        "d": "D ) Buyruk",
+        "e": "E ) Bedizci",
+        "doğru" : "e"
+    },
+    {
+        "soru": "Osmanlı Devleti'nde Sancak Sistemi'ne son verilmesinin ardından şehzadelerin sarayda kaldıkları yere verilen ad aşağıdakilerden hangisidir?",
+        "a": "A) Enderun",
+        "b": "B ) Has Oda",
+        "c": "C ) Şimşirlik",
+        "d": "D ) Divanhane",
+        "e": "E ) Birun",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi 1955 yılında oluşturulan Bağdat Paktı'na üye olan ülkelerden biri değildir?",
+        "a": "A) Afganistan",
+        "b": "B ) İngiltere",
+        "c": "C ) İran",
+        "d": "D ) Pakistan",
+        "e": "E ) Türkiye",
+        "doğru" : "a"
+    },
+    {
+        "soru": "Osmanlı Devleti'nde, köklü ve radikal yenilikler yapılması gerektiğini düşünen padişah, aşağıdakilerden hangisidir?",
+        "a": "A) I. Abdülhamit",
+        "b": "B ) III. Selim",
+        "c": "C ) II. Abdülhamit",
+        "d": "D ) III. Ahmet",
+        "e": "E ) Abdülaziz",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Aşağıdaki eserlerden hangisi, birey, toplum ve devlet yaşamının düzenlenmesinde gerekli olan bilgi ve anlayışın hangi yolla elde edileceğini anlatan İslami Türk edebiyatının ilk örneğidir?",
+        "a": "A) Kutadgu Bilig",
+        "b": "B ) Divanu Lugatı't-Türk",
+        "c": "C ) Muhakemetü'l Lügateyn",
+        "d": "D ) Divan-ı Hikmet",
+        "e": "E ) Atabetü'I Hakayık",
+        "doğru" : "a"
+    },
+    {
+        "soru": "Tokat Niksar Kalesi'nde Danişmentliler tarafından inşa edilen ve tıp alanında da önemli çalışmalar yapan eğitim kurumu aşağıdakilerden hangisidir?",
+        "a": "A) Nizamiye Medreseleri",
+        "b": "B ) Koca Hasan Medresesi",
+        "c": "C ) Yağıbasan Medresesi",
+        "d": "D ) Buruciye Medresesi",
+        "e": "E ) Karatay Medresesi",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Gelişen uydu teknolojisi sayesinde televizyon yayınları uluslararası bir boyut kazanması üzerine ilk kez canlı yayın ile tüm dünyaya ulaştırılan Tokyo Olimpiyatları aşağıdaki yıllardan hangisinde gerçekleştirilmiştir?",
+        "a": "A) 1960",
+        "b": "B ) 1964",
+        "c": "C ) 1972",
+        "d": "D ) 1976",
+        "e": "E ) 1980",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Asıl şöhretini \"Osmancık\" ve \"Küçük Ağa\" adlı romanlarıyla kazanan sanatçı aşağıdakilerden hangisidir?",
+        "a": "A) Memduh Şevket Esendal",
+        "b": "B ) Tarık Buğra",
+        "c": "C ) Ahmet Hamdi Tanpınar",
+        "d": "D ) Sait Faik Abasıyanık",
+        "e": "E ) Haldun Taner",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Ali Şir Nevai'nin, Türkçenin Farsçadan üstün olduğunu göstermek için kaleme aldığı yapıt, aşağıdakilerden hangisidir?",
+        "a": "A) Divanü Lügati't Türk",
+        "b": "B ) Muhakemetü'I Lügateyn",
+        "c": "C ) Tezkiretü'ş Şuara",
+        "d": "D ) Mizanü'I Evzan",
+        "e": "E ) Siham-ı Kaza",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi, kendi türünün edebiyatımızdaki ilk örneği değildir?",
+        "a": "A) Vatan yahut Silistre",
+        "b": "B ) Şair Evlenmesi",
+        "c": "C ) Letaif-i Rivayat",
+        "d": "D ) Tahrib-i Harabat",
+        "e": "E ) Taaşşuk-ı Talat ve Fitnat",
+        "doğru" : "a"
+    },
+    {
+        "soru": "Buhar gücü ile çalışan makinelerin icat edilmesi, aşağıdaki ekonomile faaliyetlerden hangisinin ortaya çıkmasını sağlamıştır?",
+        "a": "A) Tarım",
+        "b": "B ) Ticaret",
+        "c": "C ) Ulaşım",
+        "d": "D ) Sanayi",
+        "e": "E ) Turizm",
+        "doğru" : "d"
+    },
+    {
+        "soru": "Ülkemizde aşağıdaki göllerden hangisinden elektrik üretiminde yararlanılmaktadır?",
+        "a": "A) Sapanca Gölü",
+        "b": "B ) Uzungöl",
+        "c": "C ) Tortum Gölü",
+        "d": "D ) Seyfe Gölü",
+        "e": "E ) Akşehir Gölü",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi Karadeniz Bölgesi'ndeki delta ovalarından biridir?",
+        "a": "A) Çarşamba",
+        "b": "B ) Düzce",
+        "c": "C ) Tosya",
+        "d": "D ) Suluova",
+        "e": "E ) Amasya",
+        "doğru" : "a"
+    },
+    {
+        "soru": "İlk Türk tiyatro kadın oyuncu aşağıda verilenlerden hangisidir?",
+        "a": "A) Afife İpek",
+        "b": "B ) Bedriye Tahir Gökmen",
+        "c": "C ) Afife Jale",
+        "d": "D ) Gül Esin",
+        "e": "E ) Firdevs Menteşe",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Semazenlerin üzerine giydikleri, beyaz kıyafet olarak bilinen Tennure, aşağıda verilenlerden hangisini simgeler?",
+        "a": "A) Mezar Taşı",
+        "b": "B ) Ruhu",
+        "c": "C ) Kefeni",
+        "d": "D ) Özgürlüğü",
+        "e": "E ) Sabrı",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+        "a": "A) Sadece ölçü ve uyak, bir şiiri başarılı kılmaya yetmez.",
+        "b": "B ) Şiirin de düzyazının da kendine özgü zorlukları vardır.",
+        "c": "C ) Şiiri düzyazıya yaklaştıran ya da uzaklaştıran, şiirin konusu değil, biçimidir.",
+        "d": "D ) Şiirle düzyazı arasındaki tek fark biçim değildir.",
+        "e": "E ) Şiiri düzyazıya göre daha etkili kılan üsluptur.",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Aşağıdaki cümlelerin hangisinde, anlatılan işin yinelendiği kesindir?",
+        "a": "A) Bu yalancı adamın söylediklerine inanmam.",
+        "b": "B ) Kum kamyonu kaçıncı seferini yaptı?",
+        "c": "C ) Gelecek hafta sizleri buraya bekliyoruz.",
+        "d": "D ) Yunuslar, sürüler halinde geçiyordu önümüzden.",
+        "e": "E ) Seninle geçen sene de bu sahilde buluşmuştuk.",
+        "doğru" : "e"
+    },
+    {
+        "soru": "İpek Yolu'nun başlangıç noktası olan Xian (Yan) kenti, aşağıdaki ülkelerden hangisinin sınırları içinde yer almaktadır?",
+        "a": "A) Hindistan",
+        "b": "B ) Çin",
+        "c": "C ) Japonya",
+        "d": "D ) Güney Kore",
+        "e": "E ) Bagladeş",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Aşağıda eşleştirilen ülkelerden hangileri arasında yük taşıyan bir geminin, sürekli olarak İstanbul ve Çanakkale boğazlarını kullanması gerekmektedir?",
+        "a": "A) Rusya Federasyonu - Japonya",
+        "b": "B ) Romanya - Gürcistan",
+        "c": "C ) Mısır - Portekiz",
+        "d": "D ) İtalya - Cezayir",
+        "e": "E ) Ukrayna - Yunanistan",
+        "doğru" : "e"
+    },
+    {
+        "soru": "Aşağıdaki kıtaların hangisinde, düşük gelirli ülkelerin oluşturduğu bölge diğerlerine göre daha geniş alan kaplar?",
+        "a": "A) Kuzey Amerika",
+        "b": "B ) Asya",
+        "c": "C ) Afrika",
+        "d": "D ) Güney Amerika",
+        "e": "E ) Avrupa",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Türkiye'nin ilk İngilizce yayın yapan televizyon kanalı aşağıdakilerden hangisidir?",
+        "a": "A) TRT World",
+        "b": "B ) FOX",
+        "c": "C ) Bloomberg",
+        "d": "D ) A News",
+        "e": "E ) BBC World",
+        "doğru" : "a"
+    },
+    {
+        "soru": "Ülkemizde bulunan aşağıdaki tarihi eserlerden hangisi UNESCO'nun Dünya Kültür Mirası Listesi'nde yer alan tarihi çevrelerden biri değildir?",
+        "a": "A) Diyarbakır Kalesi",
+        "b": "B ) Kapadokya",
+        "c": "C ) Şamram Kanalı",
+        "d": "D ) Çatalhöyük",
+        "e": "E ) Efes",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Son Osmanlı Mebusan Meclisinde onaylanan Misakımilli kararlarını meclisin gündemine getiren Felah-ı Vatan grubunun başkanı aşağıdakilerden hangisidir?",
+        "a": "A) Kara Vasıf",
+        "b": "B ) Rauf Orbay",
+        "c": "C ) Fethi Okyar",
+        "d": "D ) Ziya Gökalp",
+        "e": "E ) Celaleddin Arif Bey",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Yazdığı Mukaddime adlı eseriyle İslam dünyasında tarih felsefesinin temellerini atan tarihçi aşağıdakilerden hangisidir?",
+        "a": "A) Ebu Cafer Taberi",
+        "b": "B ) ibn Esir",
+        "c": "C ) ibn Haldun",
+        "d": "D ) ibn Miskeveyh",
+        "e": "E ) İmam el Gazali",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Kurduğu akademinin kapısına “Geometri bilmeyen bu kapıdan girmesin.” diye yazdıran yazdığı Devlet, Yönetici ve Kanunlar adlı kitaplarında ideal bir devletin nasıl olması gerektiğini sorgulayan; İlk Çağ’ın en Önemli filozoflarından biri olarak kabul edilen bilim insanı aşağıdakilerden hangisidir?",
+        "a": "A) Sokrates",
+        "b": "B ) Aristo",
+        "c": "C ) Diyojen",
+        "d": "D ) Platon",
+        "e": "E ) Konfüçyüs",
+        "doğru" : "d"
+    },
+    {
+        "soru": "Yeni sistemde çıkarılan KHK'da yer alan düzenlemeye göre, güncel \"Bakanlık\" sayısı kaça düşürülmüştür?",
+        "a": "A) 22",
+        "b": "B ) 20",
+        "c": "C ) 18",
+        "d": "D ) 16",
+        "e": "E ) 14",
+        "doğru" : "d"
+    },
+    {
+        "soru": "\"Gümrük ve Ticaret Bakanlığı\" ile \"Ekonomi Bakanlığı\"nın tek bir çatı altında toplanmasının ardından, yeni kurulan Bakanlığın ismi aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+        "a": "A) Tarım ve Orman Bakanlığı",
+        "b": "B ) Ticaret Bakanlığı",
+        "c": "C ) Hazine ve Maliye Bakanlığı",
+        "d": "D ) Ekonomi Bakanlığı",
+        "e": "E ) Sanayi ve Teknoloji Bakanlığı",
+        "doğru" : "b"
+    },
+    {
+        "soru": "Cumhurbaşkanlığı Hükümet Sistemine göre, Yargıtay üyelerini hangi kurum/kuruluş tarafından seçilir?",
+        "a": "A) Cumhurbaşkanı",
+        "b": "B ) Anayasa Mahkemesi",
+        "c": "C ) Hakim ve Savcılar Kurulu",
+        "d": "D ) TBMM",
+        "e": "E ) Cumhurbaşkanı Yardımcısı",
+        "doğru" : "c"
+    },
+    {
+        "soru": "Cumhurbaşkanlığı Hükümet Sistemine göre, genel seçimlerde toplam geçerli oyların tek başına veya birlikte en az yüzde beşini (% 5’ ini) almamış olan siyasi partiler en az kaç imza topladıkları takdirde Cumhurbaşkanı adayı gösterebilirler?",
+        "a": "A) 10 bin",
+        "b": "B ) 20 bin",
+        "c": "C ) 50 bin",
+        "d": "D ) 100 bin",
+        "e": "E ) 200 bin",
+        "doğru" : "d"
+    },
+    {
+        "soru": "1982 Anayasası’na göre aşağıdakilerden hangisinde Anayasa Mahkemesi’nin üye sayısı doğru verilmiştir?",
+        "a": "A) 21",
+        "b": "B ) 17",
+        "c": "C ) 16",
+        "d": "D ) 15",
+        "e": "E ) 14",
+        "doğru" : "d"
+    },
+    {
+        "soru": "Aşağıdaki Türk - İslam devletlerinin hangisinde hanedan egemenliği yoktu?",
+        "a": "A) Karahanlılar",
+        "b": "B ) Selçuklular",
+        "c": "C ) Eyyubiler",
+        "d": "D ) Gazneliler",
+        "e": "E ) Memlükler",
+        "doğru" : "e"
+    }
+]

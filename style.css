@@ -1,0 +1,242 @@
+body{
+    background: url(img/bg.jpg) no-repeat;
+    background-size: cover;
+    font-family: 'Lato', sans-serif; 
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sectionList li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 5px; 
+  }
+  .sectionList {
+    display: flex;
+  }
+  
+  .sectionList li {
+    flex: 1;
+  }
+.generalCard{
+    background-color: #2B2A4C;
+    border-radius: 20px;
+    border: 3px #E55807 solid;
+    opacity: 0.8;
+}
+.quesitonH1,
+.endH1,
+.soruIndex{
+    color: #fff;
+    font-size: 25px;
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dogruCevapSayısı,
+.yanlısCevapSayısı{
+    color: #fff;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.result{
+    margin-bottom: 100px;
+}
+.soruIndex{
+    font-size: 30px !important;
+}
+.sol-yasla {
+    text-align: left !important;
+}
+.section{
+    border-radius: 20px;
+    color: #fff;
+    margin: 5px;
+    font-size: 15px;
+    text-align: center;
+    align-items: center;
+    background-color: #E55807 ;
+    border: 1px solid #fff;
+}
+.section:hover{
+    color: #fff;
+    margin: 5px;
+    font-size: 15px;
+    text-align: center;
+    align-items: center;
+    background-color: #068DA9 ;
+    border: 1px solid #fff;
+}
+.section[disabled] {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+    border: 1px solid #fff;
+    color: #fff;
+  }
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 90px;
+}
+
+button{
+    margin: 15px !important;
+}
+.questionCard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#startButton {
+    height: 40px;
+  } 
+.fa-forward,
+.repeat{
+    font-size: 40px;
+    color: #EA906C;
+}
+#next {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+.süre,
+.puan{
+    color: #fff;
+    font-size: 30px;
+    padding: 5px;
+}  
+
+.time{
+    margin: 15px 30px 30px 30px !important;
+    background-color: #068DA9;
+    width: 100px;
+    border-radius: 10px;
+} 
+.point{
+    background-color: #068DA9;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 400px; margin-top: 20px; margin-right: 15px;
+} 
+.repeat{
+  background-color: #068DA9;
+  width: 100px;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 15px !important;
+  color: #fff;
+  margin: 50px !important;
+  display: block !important;
+  margin: 0 auto !important;
+}
+.süre{
+    padding: 10px;
+    margin: 0;
+    font-size: 25px;
+}
+
+  .ustList li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 5px; 
+  }
+  .ustList {
+    display: flex;
+  }
+  
+  .ustList li {
+    flex: 1;
+  }  
+.containerr{
+    width: 1400px;
+    height: 500px;
+}  
+@media screen and (max-width: 768px) {
+  body {
+    display: block;
+    justify-content: initial;
+    align-items: initial;
+    overflow: hidden;
+  }
+  .containerr{
+    width: 100%;
+    height: 350px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 45px;
+  } 
+
+  .quesitonH1,
+  .endH1{
+      color: #fff;
+      font-size: 15px;
+      margin: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  .soruIndex{
+    font-size: 15px !important;
+    margin: 15px !important;
+    margin-left: 15px !important;
+  }
+  .section{
+    margin: 3px;
+    font-size: 12px !important;
+    height: 60px;
+    width: 100px;
+  }
+  .dogruCevapSayısı,
+  .yanlısCevapSayısı,
+  .repeat{
+      font-size: 15px;
+  }
+  .fa-forward{
+    font-size: 30px;
+  }
+  .süre,
+  .puan{
+      color: #fff;
+      font-size: 15px;
+      padding: 5px;
+  }  
+  .point{
+    background-color: #068DA9;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 10px; margin-top: 20px; margin-right: 15px;
+  } 
+  .süre{
+    padding: 10px;
+    margin: 0;
+    font-size: 15px;
+  }
+  .sectionList {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .time{
+    margin: 15px 15px 15px 15px !important;
+    background-color: #068DA9;
+    width: 100px;
+    border-radius: 10px;
+  }
+}
