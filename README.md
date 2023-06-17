@@ -3,5 +3,7 @@ In this project, I made a quiz website. While making this, I used HTML, CSS, Jav
 
 And here there is a dema website = quizzapp.rf.gd
 
---------------------------------------------Here Photo----------------------------------------------
-![quiz](https://github.com/bayramcinar/quizApp/assets/99193151/36aa00a2-fa1e-44a7-ba86-a2d69ed5e0a5)
+<h1 style="text-decoration: overline;">Here Photo</h1>
+<img src="https://github.com/bayramcinar/quizApp/assets/99193151/36aa00a2-fa1e-44a7-ba86-a2d69ed5e0a5" style="width: 300px;">
+
+
